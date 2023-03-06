@@ -12,7 +12,7 @@
 
 - :zap: Хочу освоить новую проффесию и найти работу.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/KorolkOFF22) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:korolkovpro@yandex.ru)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-korolkovdmitrii-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/KorolkOFF22) [![Gmail Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Gmail&logoColor=white)](mailto:korolkovpro@yandex.ru)
 
 ---
 
