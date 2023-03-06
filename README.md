@@ -19,12 +19,12 @@
 
 ### 💻 Технологии:
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-green?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-pink?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-yellow?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Matlab](https://img.shields.io/badge/-Matlab-563D7C?style=flat-square&logo=MATLAB)
